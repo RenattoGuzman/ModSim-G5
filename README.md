@@ -4,4 +4,4 @@
 ## Integrantes
 - Renatto Esteban Guzmán Sosa Carné 21646
 - David Jonathan Aragón Vasquez Carné 21053
-- Kristopher Javier Alvarado López Carné 21xxx
+- Kristopher Javier Alvarado López Carné 21188
